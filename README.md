@@ -1,7 +1,7 @@
 
-Backup Github repos to S3
+# Backup Github repos to S3
 
-Uage:
+Usage:
 
 put a github access token into a file named 'token',
 make sure you have the aws command line client configured
